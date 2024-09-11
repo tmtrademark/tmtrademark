@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently looking for work!
+- 🌱 I’m currently learning postgresql
+- 💬 Ask me about WordPress and Web Applications at Scale!
+- 📫 How to reach me: toby.mckes@gmail.com
+
+[![Toby's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmtrademark)]

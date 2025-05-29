@@ -9,7 +9,6 @@
 
 
 ### 
-- 🔭 I’m currently looking for work!
 - 🌱 I’m currently learning postgresql
 - 📫 How to reach me: toby.mckes@gmail.com
 
